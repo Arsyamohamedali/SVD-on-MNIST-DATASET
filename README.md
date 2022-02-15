@@ -1,5 +1,6 @@
 # SVD-on-MNIST-DATASET
-1.For the MNIST dataset, applied feature reduction using singular value decomposition (SVD).  
+
+1. For the MNIST dataset, applied feature reduction using singular value decomposition (SVD).  
 
 2. Classified the dataset using logistic regression before applying the feature reduction. 
 
